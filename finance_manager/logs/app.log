@@ -1,0 +1,7 @@
+82026-05-15 14:59:16,764 - INFO - Expenses exported to CSV
+2026-05-15 17:03:10,272 - INFO - Expense Deleted: Pizza
+2026-05-19 14:47:03,859 - INFO - Expense Added: food | ₹500 | food
+2026-05-19 14:51:21,956 - INFO - Expense Updated: demo
+2026-05-19 14:53:24,265 - INFO - Expense Deleted: food
+2026-05-19 18:52:23,019 - INFO - Expense Added: Mobile | ₹500000 | Electronic
+2026-05-20 12:13:53,798 - INFO - Expense Updated: Pizza

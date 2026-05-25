@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Pizza",
+        "amount": "350",
+        "category": "Food"
+    },
+    {
+        "title": "Mobile",
+        "amount": "500000",
+        "category": "Electronic"
+    }
+]

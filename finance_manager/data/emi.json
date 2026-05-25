@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Car",
+        "total": 100000.0,
+        "monthly": 2000.0,
+        "months": 12,
+        "paid_months": 1
+    },
+    {
+        "name": "Bike",
+        "total": 120000.0,
+        "monthly": 12.0,
+        "months": 12,
+        "paid_months": 1
+    },
+    {
+        "name": "home",
+        "total": 500000000.0,
+        "monthly": 200000.0,
+        "months": 12,
+        "paid_months": 0
+    }
+]
