@@ -190,6 +190,6 @@ def check_budget_limits():
 
     else:
 
-        print("\nFINAL STATUS : BUDGET HEALTHY")
+        print("\n FINAL STATUS : BUDGET HEALTHY")
 
     pause()
